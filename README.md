@@ -1,0 +1,2 @@
+# TimelineSignalImplement
+タイムラインのsignalでコールバックを呼び出す機能を学ぶ
