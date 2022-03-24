@@ -5,6 +5,7 @@
 ### demo内容
 タイムライン上のsignalとmakerを使って、キューブ移動中パーティクルを生成するdemo
 ### 内容詳細
+SampleSceneで動作確認できます
 ・signalアセットを作って、SignalReceiverコンポネートを使用し、タイムライン再生中に「Start」、「End」のテキストアニメーションを再生する
 ・スクリプトのPlayParticleReceiver.cs、PlayParticleMarker.csを作って、それらを使用して、タイムライン再生中にパーティクルを生成する
 ### 動画
